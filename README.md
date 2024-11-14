@@ -11,3 +11,4 @@ Kullanıcı adı : admin
 Şifre : admin123
 
 Yönetim panelinden sitenin tamamını düzenleyebilirsiniz, github üzerinde açık kaynak kodlu bir şekilde paylaşılmıştır, istediğiniz gibi yazılımı geliştirebilirsiniz.
+https://propjoe.com.tr/2024/11/14/ucretsiz-insaat-sitesi-yazilimi/
